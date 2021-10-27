@@ -231,7 +231,7 @@ main.main-content {
   color: #444;
 }
 .logo {
-  font: 32px "Audiowide", cursive;
+  font: 26px "Audiowide", cursive;
   text-transform: uppercase;
   background: -webkit-linear-gradient(#642b73, #c6426e);
   -webkit-background-clip: text;
